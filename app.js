@@ -1,6 +1,6 @@
 class School {
-    constructor (){
-
+    constructor (title){
+        this._title = title;
     }
 };
 
